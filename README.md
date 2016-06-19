@@ -2,7 +2,6 @@ Jasper-Module-Selfie
 ======================
 
 Jasper Selfie Module for my [HAL9000 Raspberry PI Instructable](http://www.instructables.com/id/RaspberryPI-HAL9000/)
-Written By: Djordje Ungar
 
 ##Steps to install Selfie Module
 
@@ -27,7 +26,8 @@ selfie:
 ```
 sudo reboot
 ```
-##Congrats, JASPER Selfie Module is now installed and ready for use; here are some examples:
+##Congrats, JASPER Selfie Module is now installed and ready for use.
+Here are some examples:
 ```
 YOU: Take a photo.
 JASPER: *shutter sound* Nice.
