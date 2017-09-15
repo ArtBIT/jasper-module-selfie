@@ -1,9 +1,8 @@
-Jasper-Module-Selfie
-======================
+# Jasper-Module-Selfie
 
 Jasper Selfie Module for my [HAL9000 Raspberry PI Instructable](http://www.instructables.com/id/RaspberryPI-HAL9000/)
 
-##Steps to install Selfie Module
+## Steps to install Selfie Module
 
 * Install the `fswebcam` package:
 ```
@@ -26,7 +25,7 @@ selfie:
 ```
 sudo reboot
 ```
-##Congrats, JASPER Selfie Module is now installed and ready for use.
+## Congrats, JASPER Selfie Module is now installed and ready for use.
 Here are some examples:
 ```
 YOU: Take a photo.
